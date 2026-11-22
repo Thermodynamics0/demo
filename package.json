@@ -1,0 +1,18 @@
+{
+  "name": "quick-timestamp-id-demo",
+  "version": "1.0.0",
+  "description": "Demo application showcasing quick-timestamp-id usage",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "dependencies": {
+    "quick-timestamp-id": "file:../npm"
+  },
+  "keywords": [
+    "demo",
+    "quick-timestamp-id"
+  ],
+  "author": "Harshit <yadavharshit126@gmail.com>",
+  "license": "MIT"
+}
